@@ -1,0 +1,12 @@
+*.class
+*.png
+*.txt
+*.zip
+*.jar
+*.bak*
+*.swp
+*.swo
+checkstyle-5.5/
+findbugs-2.0.3/
+bin/
+*/*/
